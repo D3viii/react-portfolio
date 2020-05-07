@@ -5,10 +5,10 @@ const Portfolio = () => {
   return (
     <div>
       <div className="container">
-        <main className="row">
+        <main className="row" id="bigbox">
           <div className="col-md-8">
             <article className="block">
-              <h1 className="block-header">Portfolio</h1>
+              <h1 className="block-header" id="info">Portfolio</h1>
               <div class="row">
                 <Project
                   name="PokeBattle"
