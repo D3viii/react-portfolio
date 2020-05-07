@@ -9,7 +9,7 @@ const Home = () => {
         <article className="block">
           <h1 className="block-header">Devin Carr</h1>
           <hr />
-          <img src="PIC.png" alt="Profile pic of me" id="about-image" />
+          <img src="/assets/img/PIC.png" alt="Profile pic of me" id="about-image" />
           <p>  iOS and Full-Stack Dev from Atlanta, GA.
           </p>
           <br />
@@ -19,7 +19,7 @@ const Home = () => {
             Contact Information:
            </h1>
            <p><a href="devinsdevs@gmail.com">Email</a></p>
-           <p><a href="./dcresume.pdf">Resume</a></p>
+           <p><a href="/assets/img/dcresume.pdf">Resume</a></p>
             <p><a href="https://github.com/d3viii">Github</a> </p>
             <p><a href="https://www.linkedin.com/in/d3viiii/">LinkedIn</a></p>
         </article>

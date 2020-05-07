@@ -12,13 +12,13 @@ const Portfolio = () => {
               <div class="row">
                 <Project
                   name="PokeBattle"
-                  src=""
+                  src="/assets/img/poke.png"
                   deployURL="https://fathomless-citadel-99311.herokuapp.com/"
                   repoURL="https://github.com/D3viii/PokeBattle"
                 />
                 <Project
                   name="springBreakers"
-                  src=""
+                  src="/assets/img/spring.png"
                   deployURL="https://d3viii.github.io/springBreakers/"
                   repoURL="https://github.com/D3viii/springBreakers"
                 />
@@ -26,13 +26,13 @@ const Portfolio = () => {
               <div class="row">
                 <Project
                   name="fitnessTracker"
-                  src=""
+                  src="/assets/img/workout.png"
                   deployURL="https://immense-sands-29181.herokuapp.com/"
                   repoURL="https://github.com/D3viii/fitnessTracker"
                 />
                 <Project
                   name="Portfolio"
-                  src=""
+                  src="/assets/img/portfolio.png"
                   deployURL="https://d3viii.github.io/Portfolio/"
                   repoURL="https://github.com/D3viii/Portfolio"
                 />
@@ -40,12 +40,12 @@ const Portfolio = () => {
               <div class="row">
                 <Project
                   name="OfflineBudgetTracker"
-                  src=""
+                  src="/assets/img/tracker.png"
                   repoURL="https://github.com/D3viii/OfflineBudgetTracker"
                 />
                 <Project
                   name="Employee Tracker"
-                  src=""
+                  src="/assets/img/employee.png"
                   repoURL="https://github.com/D3viii/employee-tracker"
                 />
               </div>
