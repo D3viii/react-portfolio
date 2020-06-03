@@ -1,3 +1,0 @@
-## React Portfolio
-
-## Rebuilt Portfolio
