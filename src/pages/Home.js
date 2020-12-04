@@ -16,7 +16,7 @@ const Home = () => {
           <p> As of now, I spend time i'm not coding on Modern Warfare. I really enjoy gaming and being able to connect with people. I also am a big Apple Fanboy, Owning a total of 2 Macbook Pros and a iMac along with the basics Airpods, Apple Watch, iPad, iPhone and an endless supply of lightning cables. I eventually plan on moving to gaming on a nice spec gaming PC, that I want to custom build. It looks like I will have to figure out Windows. 
           </p>
           <h1 className="block-header" id="info">
-            Contact Information:
+            Contact Information
            </h1>
            <p><a href="devinsdevs@gmail.com">Email: devinsdevs@gmail.com</a></p>
            <p><a href="/assets/img/dcresume.pdf">Resume</a></p>
