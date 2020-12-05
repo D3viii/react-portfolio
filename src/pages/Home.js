@@ -19,7 +19,7 @@ const Home = () => {
             Contact Information
            </h1>
            <p><a href="devinsdevs@gmail.com">Email: devinsdevs@gmail.com</a></p>
-           <p><a href="/assets/img/dcresume.pdf">Resume</a></p>
+           <p><a href="https://docs.google.com/document/d/1MQoOd4kBRyLshQ2Rc31V2e_6U1ma3bjvPgjzIhyy3CM/edit?usp=sharing">Resume</a></p>
             <p><a href="https://github.com/d3viii">Github</a> </p>
             <p><a href="https://www.linkedin.com/in/d3viiii/">LinkedIn</a></p>
         </article>
