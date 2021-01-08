@@ -49,6 +49,13 @@ const Portfolio = () => {
                   repoURL="https://github.com/D3viii/employee-tracker"
                 />
               </div>
+              <div class="row">
+                <Project
+                name="FriendOps"
+                src="/assets/img/SC2!.png"
+                repoURL="https://github.com/D3viii/FriendOps"
+                />
+              </div>
             </article>
           </div>
         </main>
