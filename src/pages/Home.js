@@ -17,7 +17,7 @@ const Home = () => {
           <p> My Hobbies outside of Coding are Traveling, Gaming and Fishing. I have Traveled the world twice ranging from Europe to Asia. I really enjoy fishing because despite was most people think, it is a very mind boggling hobby. You have to figure out what baits to use at what time and figure out where the fish are located underwater. It is also just nice being outdoors and getting fresh air. I don't game as much as I did when I was younger but I do enjoy playing the new "Call of Duty", when they come out every year. 
           </p>
           <h1 className="block-header" id="info">
-            Contact Information
+            Interested? Here's my Contact Info!
            </h1>
            <p><a href="devinsdevs@gmail.com">Email: devinsdevs@gmail.com</a></p>
            <p><a href="https://docs.google.com/document/d/1MQoOd4kBRyLshQ2Rc31V2e_6U1ma3bjvPgjzIhyy3CM/edit?usp=sharing">Resume</a></p>
