@@ -9,8 +9,8 @@ body {
     Variables are defined right along style declarations.
     They're indicated by the double-hyphen prefix.
   */
-  --color-1: blue;
-  --color-2: darkblue;
+  --color-1: white;
+  --color-2: rgb(145, 145, 145);
   /*
     You can access variables using the 'var()' function:
   */
