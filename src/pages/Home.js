@@ -14,7 +14,7 @@ const Home = () => {
 
           </p>
           <br />
-          <p> My Hobbies outside of Coding are Traveling, Gaming and Innovating. I have Traveled the world twice ranging from Europe to Asia. I don't game as much as I did when I was younger but I do enjoy playing the new "Call of Duty", when they come out every year. I spend time on working on concepts for projects and trying to find solutions. I also love tinkering with Raspberry Pi, I want to build my own humanoid one day!
+          <p> My Hobbies outside of Coding are Traveling, Fishing and Innovating. I have Traveled the world twice ranging from Europe to Asia. Bass fishing is my escape from this hectic world and allows me to ground myself and breathe. When I'm not working or fishing, I am hanging out at home with my girlfriend and 2 cats either playing "Mario" or catching up on our favorite Netflix shows.
           </p>
           <h1 className="block-header" id="info">
             Interested? Here's my Contact Info!
