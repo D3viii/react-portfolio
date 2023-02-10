@@ -1,28 +1,22 @@
-body {
-  background-color: rgb(0, 80, 185);
-  
-
-}
 
 body {
   /*
     Variables are defined right along style declarations.
     They're indicated by the double-hyphen prefix.
   */
-  --color-1: rgb(37, 71, 182);
-  --color-2: rgb(49, 49, 49);
+  background-color: lightgrey;
   /*
     You can access variables using the 'var()' function:
   */
-  background: linear-gradient(170deg, var(--color-1), var(--color-2));
+  
 }
 
 #coolNav {
-  background-color: #1f2833;
+  background-color: darkgrey;
 }
 
 #logo {
-  color: rgb(201, 201, 206);
+  color: orange;
   
   text-align: center;
   margin: auto;
@@ -42,7 +36,7 @@ a {
 }
 
 p {
-  color: #c5c6c7;
+  color: black;
   text-align: center;
   font-size: 20px;
   padding-top: 2rem;
@@ -55,6 +49,6 @@ p {
 
 #info {
     text-align: center;
-    color: #d3d4d4 ;
+    color: black ;
 }
 
