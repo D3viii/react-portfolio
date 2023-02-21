@@ -1,5 +1,6 @@
 import React from "react";
-import Card from 'react-bootstrap/Card';
+import Card from "react-bootstrap/Card";
+import Button from 'react-bootstrap/Button';
 
 const Home = () => {
   return (
@@ -17,14 +18,43 @@ const Home = () => {
                 alt="Profile pic of me"
                 id="about-image"
               />
-              <Card border="warning" style={{ width: "18rem" }}>
-                <Card.Header>Header</Card.Header>
+              <Card className="text-center" border="primary" style={{ width: "100%" }}>
                 <Card.Body>
-                  <Card.Title>Warning Card Title</Card.Title>
+                  <Card.Title>Resume</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
+                    View my resume here!
                   </Card.Text>
+                  <Button variant="outline-primary">Resume</Button>
+                </Card.Body>
+              </Card>
+              <hr />
+              <Card className="text-center" border="primary" style={{ width: "100%" }}>
+                <Card.Body>
+                  <Card.Title>Portfolio</Card.Title>
+                  <Card.Text>
+                    View projects I have worked on!
+                  </Card.Text>
+                  <Button variant="outline-primary">Portfolio</Button>
+                </Card.Body>
+              </Card>
+              <hr />
+              <Card className="text-center" border="primary" style={{ width: "100%" }}>
+                <Card.Body>
+                  <Card.Title>Blog</Card.Title>
+                  <Card.Text>
+                    Read about what I am currently working on and what I want to pursue!
+                  </Card.Text>
+                  <Button variant="outline-primary">Blog</Button>
+                </Card.Body>
+              </Card>
+              <hr />
+              <Card className="text-center" border="primary" style={{ width: "100%" }}>
+                <Card.Body>
+                  <Card.Title>About Me</Card.Title>
+                  <Card.Text>
+                    Read about my story
+                  </Card.Text>
+                  <Button variant="outline-primary">About Me</Button>
                 </Card.Body>
               </Card>
               <h1 className="block-header" id="info">

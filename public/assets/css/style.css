@@ -4,7 +4,7 @@ body {
     Variables are defined right along style declarations.
     They're indicated by the double-hyphen prefix.
   */
-  background-color: rgb(40, 40, 40);
+  background-color: #0d1117;
   /*
     You can access variables using the 'var()' function:
   */
@@ -12,22 +12,33 @@ body {
 }
 
 #coolNav {
-  background-color: rgb(33, 115, 239);
+  background-color: #161b22;
 }
 
+
+
 #logo {
-  color: rgb(33, 115, 239);
+  color: rgb(192, 192, 192);
   
   text-align: center;
   margin: auto;
   
 }
-
+.card-body {
+  background-color: #30363d;
+}
+.card-title {
+  color: rgb(232, 232, 232);
+}
+.card-text {
+  color: #bdbdbd;
+}
 #about-image {
   height: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 2em;
   
 }
 
