@@ -52,12 +52,12 @@ const Home = () => {
                 <Card.Body>
                   <Card.Title>About Me</Card.Title>
                   <Card.Text>
-                    Read about my story
+                    Read about my life and hobbies!
                   </Card.Text>
                   <Button variant="outline-primary">About Me</Button>
                 </Card.Body>
               </Card>
-              <h1 className="block-header" id="info">
+              {/* <h1 className="block-header" id="info">
                 Interested? Here's my Contact Info!
               </h1>
               <p>
@@ -73,7 +73,7 @@ const Home = () => {
               </p>
               <p>
                 <a href="https://www.linkedin.com/in/d3viiii/">LinkedIn</a>
-              </p>
+              </p> */}
             </article>
           </div>
         </section>
