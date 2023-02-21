@@ -1,6 +1,8 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from 'react-bootstrap/Button';
+import Portfolio from "./Portfolio";
+
 
 const Home = () => {
   return (
@@ -34,7 +36,7 @@ const Home = () => {
                   <Card.Text>
                     View projects I have worked on!
                   </Card.Text>
-                  <Button variant="outline-primary">Portfolio</Button>
+                  <Button variant="outline-primary" href="./Portfolio">Portfolio</Button>
                 </Card.Body>
               </Card>
               <hr />
