@@ -26,7 +26,7 @@ const Home = () => {
                   <Card.Text>
                     View my resume here!
                   </Card.Text>
-                  <Button variant="outline-primary">Resume</Button>
+                  <Button variant="outline-primary" href="./Resume">Resume</Button>
                 </Card.Body>
               </Card>
               <hr />
