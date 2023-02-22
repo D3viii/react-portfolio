@@ -4,6 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Portfolio from "./Portfolio";
 
 
+
 const Home = () => {
   return (
     <div className="container">
@@ -50,15 +51,6 @@ const Home = () => {
                 </Card.Body>
               </Card>
               <hr />
-              <Card className="text-center" border="primary" style={{ width: "100%" }}>
-                <Card.Body>
-                  <Card.Title>About Me</Card.Title>
-                  <Card.Text>
-                    Read about my life and hobbies!
-                  </Card.Text>
-                  <Button variant="outline-primary">About Me</Button>
-                </Card.Body>
-              </Card>
               {/* <h1 className="block-header" id="info">
                 Interested? Here's my Contact Info!
               </h1>
