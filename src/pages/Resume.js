@@ -33,7 +33,6 @@ const Resume = () => {
                 <Card.Body>
                   <Card.Title>Download</Card.Title>
                   <Card.Text>Download my resume as a PDF!</Card.Text>
-
                   <Button variant="outline-primary" href={DCResume} download={DCResume}>
                     Download
                   </Button>

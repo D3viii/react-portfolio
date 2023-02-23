@@ -47,7 +47,7 @@ const Home = () => {
                   <Card.Text>
                     Read about what I am currently working on and what I want to pursue!
                   </Card.Text>
-                  <Button variant="outline-primary">Blog</Button>
+                  <Button variant="outline-primary" href="./Blog">Blog</Button>
                 </Card.Body>
               </Card>
               <hr />
