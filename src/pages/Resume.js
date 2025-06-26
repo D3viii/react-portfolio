@@ -19,8 +19,7 @@ const Resume = () => {
                 <Card.Body>
                   <Card.Title>Resume</Card.Title>
                   <Card.Img
-                    varient="top"
-                    src="assets/img/2023DCResume.png"
+                    varient=
                   ></Card.Img>
                 </Card.Body>
               </Card>
@@ -31,9 +30,7 @@ const Resume = () => {
                 style={{ width: "100%" }}
               >
                 <Card.Body>
-                  <Card.Title>Download</Card.Title>
-                  <Card.Text>Download my resume as a PDF!</Card.Text>
-                  <Button variant="outline-primary" href={DCResume} download={DCResume}>
+                  
                     Download
                   </Button>
                 </Card.Body>
